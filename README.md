@@ -106,4 +106,4 @@ library-management-sql/
 
 ## Author
 
-Your Name - [GitHub](https://github.com/USERNAME)
+Tursunov Shoxrux - [GitHub](https://github.com/shoxruxtursunov01) | [Repository](https://github.com/shoxruxtursunov01/library-management-sql)
