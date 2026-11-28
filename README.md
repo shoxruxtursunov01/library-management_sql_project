@@ -1,3 +1,4 @@
+
 # Library Management System - SQL Project
 
 A SQL data analysis project built on a library management database in **PostgreSQL**. The project covers table design, CRUD operations, joins, aggregations, CTAS (Create Table As Select), subqueries and stored procedures, answering 19 business questions about books, members, employees and branches.
@@ -9,7 +10,7 @@ A SQL data analysis project built on a library management database in **PostgreS
 
 ## Database Schema
 
-![ERD](images/erd.png)
+<img width="1735" height="803" alt="Снимок экрана 2026-11-25 174723" src="https://github.com/user-attachments/assets/b39b12fb-b930-4080-8793-26fce1be218b" />
 
 ### Core tables
 
